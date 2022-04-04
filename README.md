@@ -12,4 +12,4 @@ In this repository you can find the following files:
 - **presentation.pdf** - the slides we used to present our work in class at Sciences Po on 31/03/22
 
 ## Authors
-Giulia Annaliese Paxton, Ryan Hachem, and Simone Maria Parazzoli and master students of the School of Public Affairs of Sciences Po. If you want to contact the authors, reach us [here](mailto:simoneparazzoli@gmail.com).
+Giulia Annaliese Paxton, Ryan Hachem, and Simone Maria Parazzoli and master students of the School of Public Affairs of Sciences Po. If you want to get in touch, reach us [here](mailto:simoneparazzoli@gmail.com).
