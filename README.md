@@ -9,7 +9,7 @@ In this repository you can find the following files:
 - **README.md** - the file you are currently reading
 - **paper.md** - an extended description of our research that sets our work withing the literature in political science, data science, and anthropology, that explains its methodological details, and that shows its findings, contributions and limitations
 - **code** - the Python code that allows interested readers to replicate our research. The code is divided in seven main parts that constitute the sections in which we train the seven models used in our work
-- **presentation.pdf** - the slides we used to present our work in class at Sciences Po on 31/03/22
+- **presentation.pdf** - the slides we used to present our work at Sciences Po on 31/03/22
 
 ## Authors
 Giulia Annaliese Paxton, Ryan Hachem, and Simone Maria Parazzoli and master students of the School of Public Affairs of Sciences Po. If you want to get in touch, reach us [here](mailto:simoneparazzoli@gmail.com).
