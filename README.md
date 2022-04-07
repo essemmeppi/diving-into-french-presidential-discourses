@@ -8,8 +8,8 @@ The following study aims to elicit the difference in meaning attributed to subje
 In this repository you can find the following files: 
 - **README.md** - the file you are currently reading
 - **paper.md** - an extended description of our research that sets our work withing the literature in political science, data science, and anthropology, that explains its methodological details, and that shows its findings, contributions and limitations
-- **code** - the Python code that allows interested readers to replicate our research. The code is divided in seven main parts that constitute the sections in which we train the seven models used in our work
-- **model_ns** - the 7 notebooks we wrote to generate the word embeddings models of each candidate whose (n)ame an (s)urname are shortened in 'sn'
+- **code.py** - the Python code that allows interested readers to replicate our research. The code is divided in seven main parts that constitute the sections in which we train the seven models used in our work
+- **model** - folder with the 7 notebooks we wrote to generate the word embeddings models of each of the 7 candidate 
 - **presentation.pdf** - the slides we used to present our work at Sciences Po on 31/03/22
 
 ## Authors
