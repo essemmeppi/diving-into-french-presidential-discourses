@@ -96,39 +96,40 @@ Lastly, our possibility to say something about political actors is limited by th
 This article has experimented and advanced  a novel method for making underlying political discourse both tangible and meaningful to a social scientist. It uses locally-trained word embeddings to scrutinise how key terms are differently mobilised to political ends. These key terms should be ubiquitous societal concepts. As we analyse the online twitter discourses of candidates for the French presidential election of 2022, we deploy terms such as ‘nation’, ‘economie’ and ‘numerique’. These demand, due to their pertinence, to be included in the discourse in question. By reading their contextual social meaning against further social science theory, we are able to elicit these issues' implications in broader meta-political debates of statehood and citizenship, which often go under-articulated and under-debated. The method retains the subjective shortcomings of qualitative research, mainly relying on the quantitative aspect to shed light on an otherwise conflated and persuasive discourse. Its value lies in eliciting the distilled forms of the discourse in question, which can be analysed from the bird’s eye view of the researcher. 
 
 ## References
-Anderson, B. (1991). Imagined communities: Reflections on the Origin and Spread of Nationalism (Rev. and e). Verso.
-Appel, H. (2017). Toward an ethnography of the national economy. Cultural Anthropology, 32(2), 294–322. https://doi.org/10.14506/ca32.2.09
-Bear, L. (2014). Doubt, Conflict, Mediation: The Anthropology of Modern Time. Journal of the Royal Anthropological Institute, 20(S1), 3–30. https://doi.org/10.1111/1467-9655.12091
-Bear, L. (2015). Navigating Austerity: Currents of Debt along a South Asian River. Stanford University Press.
-Bonikowski, B., Bock, S., & Feinstein, Y. (2021). The Partisan Sorting of “America”: How Nationalist Cleavages Shaped the 2016 U.S. Presidential Election. American Journal of Sociology, 127(2), 492–561. https://doi.org/10.1086/717103
-Bove, V., Böhmelt, T., & Nussio, E. (2021). Terrorism Abroad and Migration Policies at Home. Journal of European Public Policy, 28(2), 190–207. https://doi.org/10.1080/13501763.2020.1729227
-Boyd, D., & Crawford, K. (2012). Six Provocations for Big Data. SSRN Electronic Journal, 1–17. https://doi.org/10.2139/ssrn.1926431
-Çalişkan, K., & Callon, M. (2009). Economization, Part 1: Shifting Attention from the Economy towards Processes of Economization. Economy and Society, 38(3), 369–398. https://doi.org/10.1080/03085140903020580
-Dahl, R. A. (1957). The Concept of Power. Behavioural Science, 2(3), 201–215. https://doi.org/10.7312/popi17594-004
-Dénigot, Q., & Burnett, H. (2021). Using Word Embeddings to Uncover DIscourses. Proceedings of the Society for Computation in Linguistics, 4(28), 298–312. https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1190&context=scil
-Dennison, J., & Geddes, A. (2019). A rising tide? The salience of immigration and the rise of anti-immigration political parties in Western Europe. Political Quarterly, 90(1), 107–116. https://doi.org/10.1111/1467-923X.12620
-Desai, J., Watson, D., Wang, V., Taddeo, M., & Floridi, L. (2022). The epistemological foundations of data science: a critical analysis. Social Science Research Network, 1–26.
-Duncombe, C. (2019). The Politics of Twitter: Emotions and the Power of Social Media. International Political Sociology, 13(4), 409–429. https://doi.org/10.1093/ips/olz013
-Evans, J. A., & Aceves, P. (2016). Machine Translation: Mining Text for Social Theory. Annual Review of Sociology, 42, 21–50. https://doi.org/10.1146/annurev-soc-081715-074206
-Evans, J., & Ivaldi, G. (2017). The 2017 French Presidential Elections: A Political Reformation? https://books.google.com/books?hl=de&lr=&id=BThDDwAAQBAJ&oi=fnd&pg=PR9&ots=tilrF_K_o8&sig=ng9eayiP4NUmZ4TueEpeRGQ0yo0
-Floridi, L. (2020). The Fight for Digital Sovereignty: What It Is, and Why It Matters, Especially for the EU. Philosophy and Technology, 33(3), 369–378. https://doi.org/10.1007/s13347-020-00423-6
-Gattinara, P. C., & Morales, L. (2017). The politicization and securitization of migration in Western Europe: public opinion, political parties and the immigration issue. In Handbook on Migration and Security. Edward Elgar Publishing.
-Geertz, C. (1966). Religion as a Cultural System. In M. Banton & C. and A. of S. A. of The (Eds.), Anthropological Approaches to the Study of Religion (pp. 1–46). Tavistock 
-Geertz, C., & American Council of Learned Societies. (1973). The interpretation of cultures : Selected essays (Harper torchbooks; 5043). New York: Basic Books.
-Gerring, J., & Yesnowitz, J. (2006). A Normative Turn in Political Science? Polity, 38(1), 101–133. https://doi.org/10.1057/palgrave.polity.2300054
-Gougou, F., & Persico, S. (2017). A new party system in the making? the 2017 French presidential election. French Politics, 15(3), 303–321. https://doi.org/10.1057/s41253-017-0044-7
-Graeber, D. (2006). Turning Modes of Production Inside Out. Critique of Anthropology, 26(1), 61–85. https://doi.org/10.1177/0308275x06061484
-Graeber, D. (2013). It is value that brings universes into being. HAU: Journal of Ethnographic Theory, 3(2), 219–243. https://doi.org/10.14318/hau3.2.012
-Hay, C. (2006). Political Ontology. In The Oxford Handbook of Contextual Political Analysis. https://doi.org/10.1093/oxfordhb/9780199270439.003.0004 
-Heng, G., & Devan, J. (1997). State Fatherhood: The Politics of Nationalism, Sexuality, and Race in Singapore. In The Gender/Sexuality Reader (pp. 107–121). Routledge.
-Honnibal, M., & Montani, I. (2017). spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing.
-Irani, L. (2015). Hackathons and the Making of Entrepreneurial Citizenship. Science Technology and Human Values, 40(5), 799–824. https://doi.org/10.1177/0162243915578486
-Jacobs, T., & Tschötschel, R. (2019). Topic models meet discourse analysis: a quantitative tool for a qualitative approach. International Journal of Social Research Methodology, 22(5), 469–485. https://doi.org/10.1080/13645579.2019.1576317
-Jeffrey, C., & Dyson, J. (2020). Geographies of the Future: Prefigurative Politics. Progress in Human Geography, 1–18. https://doi.org/10.1177/0309132520926569
-Jendrissek, D. (2013). EU Labour Migration in Troubled Times : Skills Mismatch , Return and Policy Responses. Journal of Contemporary European Studies, 21(2), 312–313. https://doi.org/10.1080/14782804.2013.817824
-Khalife, S., Gonçalves, D., Allouah, Y., & Liberti, L. (2021). Further results on latent discourse models and word embeddings. Journal of Machine Learning, 1, 1–36.
+Anderson, B. (1991). Imagined communities: Reflections on the Origin and Spread of Nationalism (Rev. and e). Verso.  
+Appel, H. (2017). Toward an ethnography of the national economy. Cultural Anthropology, 32(2), 294–322. https://doi.org/10.14506/ca32.2.09. 
+Bear, L. (2014). Doubt, Conflict, Mediation: The Anthropology of Modern Time. Journal of the Royal Anthropological Institute, 20(S1), 3–30. https://doi.org/10.1111/1467-9655.12091. 
+Bear, L. (2015). Navigating Austerity: Currents of Debt along a South Asian River. Stanford University Press.  
+Bonikowski, B., Bock, S., & Feinstein, Y. (2021). The Partisan Sorting of “America”: How Nationalist Cleavages Shaped the 2016 U.S. Presidential Election. American Journal of Sociology, 127(2), 492–561. https://doi.org/10.1086/717103. 
+Bove, V., Böhmelt, T., & Nussio, E. (2021). Terrorism Abroad and Migration Policies at Home. Journal of European Public Policy, 28(2), 190–207. https://doi.org/10.1080/13501763.2020.1729227. 
+Boyd, D., & Crawford, K. (2012). Six Provocations for Big Data. SSRN Electronic Journal, 1–17. https://doi.org/10.2139/ssrn.1926431. 
+Çalişkan, K., & Callon, M. (2009). Economization, Part 1: Shifting Attention from the Economy towards Processes of Economization. Economy and Society, 38(3), 369–398. https://doi.org/10.1080/03085140903020580. 
+Dahl, R. A. (1957). The Concept of Power. Behavioural Science, 2(3), 201–215. https://doi.org/10.7312/popi17594-004. Dénigot, Q., & Burnett, H. (2021). Using Word Embeddings to Uncover DIscourses. Proceedings of the Society for Computation in Linguistics, 4(28), 298–312. https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1190&context=scil. 
+Dénigot, Q., & Burnett, H. (2021). Using Word Embeddings to Uncover DIscourses. Proceedings of the Society for Computation in Linguistics, 4(28), 298–312. https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1190&context=scil.  
+Dennison, J., & Geddes, A. (2019). A rising tide? The salience of immigration and the rise of anti-immigration political parties in Western Europe. Political Quarterly, 90(1), 107–116. https://doi.org/10.1111/1467-923X.12620  
+Desai, J., Watson, D., Wang, V., Taddeo, M., & Floridi, L. (2022). The epistemological foundations of data science: a critical analysis. Social Science Research Network, 1–26.  
+Duncombe, C. (2019). The Politics of Twitter: Emotions and the Power of Social Media. International Political Sociology, 13(4), 409–429. https://doi.org/10.1093/ips/olz013  
+Evans, J. A., & Aceves, P. (2016). Machine Translation: Mining Text for Social Theory. Annual Review of Sociology, 42, 21–50. https://doi.org/10.1146/annurev-soc-081715-074206  
+Evans, J., & Ivaldi, G. (2017). The 2017 French Presidential Elections: A Political Reformation? https://books.google.com/books?hl=de&lr=&id=BThDDwAAQBAJ&oi=fnd&pg=PR9&ots=tilrF_K_o8&sig=ng9eayiP4NUmZ4TueEpeRGQ0yo0  
+Floridi, L. (2020). The Fight for Digital Sovereignty: What It Is, and Why It Matters, Especially for the EU. Philosophy and Technology, 33(3), 369–378. https://doi.org/10.1007/s13347-020-00423-6  
+Gattinara, P. C., & Morales, L. (2017). The politicization and securitization of migration in Western Europe: public opinion, political parties and the immigration issue. In Handbook on Migration and Security. Edward Elgar Publishing.  
+Geertz, C. (1966). Religion as a Cultural System. In M. Banton & C. and A. of S. A. of The (Eds.), Anthropological Approaches to the Study of Religion (pp. 1–46). Tavistock. Geertz, C., & American Council of Learned Societies. (1973). The interpretation of cultures : Selected essays (Harper torchbooks; 5043). New York: Basic Books.
+Floridi, L. (2020). The Fight for Digital Sovereignty: What It Is, and Why It Matters, Especially for the EU. Philosophy and Technology, 33(3), 369–378. https://doi.org/10.1007/s13347-020-00423-6  
+Gerring, J., & Yesnowitz, J. (2006). A Normative Turn in Political Science? Polity, 38(1), 101–133. https://doi.org/10.1057/palgrave.polity.2300054  
+Gougou, F., & Persico, S. (2017). A new party system in the making? the 2017 French presidential election. French Politics, 15(3), 303–321. https://doi.org/10.1057/s41253-017-0044-7  
+Graeber, D. (2006). Turning Modes of Production Inside Out. Critique of Anthropology, 26(1), 61–85. https://doi.org/10.1177/0308275x06061484  
+Graeber, D. (2013). It is value that brings universes into being. HAU: Journal of Ethnographic Theory, 3(2), 219–243. https://doi.org/10.14318/hau3.2.012  
+Hay, C. (2006). Political Ontology. In The Oxford Handbook of Contextual Political Analysis. https://doi.org/10.1093/oxfordhb/9780199270439.003.0004   
+Heng, G., & Devan, J. (1997). State Fatherhood: The Politics of Nationalism, Sexuality, and Race in Singapore. In The Gender/Sexuality Reader (pp. 107–121). Routledge.  
+Honnibal, M., & Montani, I. (2017). spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing.  
+Irani, L. (2015). Hackathons and the Making of Entrepreneurial Citizenship. Science Technology and Human Values, 40(5), 799–824. https://doi.org/10.1177/0162243915578486  
+Jacobs, T., & Tschötschel, R. (2019). Topic models meet discourse analysis: a quantitative tool for a qualitative approach. International Journal of Social Research Methodology, 22(5), 469–485. https://doi.org/10.1080/13645579.2019.1576317  
+Jeffrey, C., & Dyson, J. (2020). Geographies of the Future: Prefigurative Politics. Progress in Human Geography, 1–18. https://doi.org/10.1177/0309132520926569  
+Jendrissek, D. (2013). EU Labour Migration in Troubled Times : Skills Mismatch , Return and Policy Responses. Journal of Contemporary European Studies, 21(2), 312–313. https://doi.org/10.1080/14782804.2013.817824  
+Khalife, S., Gonçalves, D., Allouah, Y., & Liberti, L. (2021). Further results on latent discourse models and word embeddings. Journal of Machine Learning, 1, 1–36.  
+König, P. D., & Waldvogel, T. (2021). Ni gauche ni droite? Positioning the candidates in the 2017 French presidential election. French Politics, 19(2–3), 281–303. https://doi.org/10.1057/s41253-018-0059-8  
+Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). The Geometry of Culture: Analyzing the Meanings of Class through Word Embeddings. American Sociological Review, 84(5), 905–949. https://doi.org/10.1177/0003122419877135  
 König, P. D., & Waldvogel, T. (2021). Ni gauche ni droite? Positioning the candidates in the 2017 French presidential election. French Politics, 19(2–3), 281–303. https://doi.org/10.1057/s41253-018-0059-8
-Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). The Geometry of Culture: Analyzing the Meanings of Class through Word Embeddings. American Sociological Review, 84(5), 905–949. https://doi.org/10.1177/0003122419877135
 Lenci, A. (2018). Distributional models of word meaning. Annual Review of Linguistics, 4, 151–171. https://doi.org/10.1146/annurev-linguistics-030514-125254
 Lowrie, I. (2017). Algorithmic rationality: Epistemology and efficiency in the data sciences. Big Data and Society, 4(1), 1–13. https://doi.org/10.1177/2053951717700925
 Mavelli, L. (2013). Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies, 41(2), 159–181. https://doi.org/10.1177/0305829812463655
