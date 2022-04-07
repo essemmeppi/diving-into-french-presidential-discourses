@@ -6,10 +6,10 @@ The following study aims to elicit the difference in meaning attributed to key w
 
 ## This repository
 In this repository you can find the following files: 
-- **README.md** - the file you are currently reading
+- **[README.md](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/e6fa6c0b915b60187637ba1b4778dbf0b00208ba/README.md)** - the file you are currently reading
 - **[paper.md](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/bbd5860eeb31466251b0fc7ee606bc730a99c30e/paper.md)** - an extended description of our research that sets our work withing the literature in political science, data science, and anthropology, that explains its methodological details, and that shows its findings, contributions and limitations
 - **[code.py](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/bbd5860eeb31466251b0fc7ee606bc730a99c30e/code.py)** - the Python code that allows interested readers to replicate our research. The code is divided in seven main parts that constitute the sections in which we train the seven models used in our work
-- **models** - the folder with the 7 notebooks we wrote to generate the word embeddings models of each of the 7 candidate (look at [Emmanuel Macron's notebook](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/c591c2fd4865efabdd635e6c4265b972c43ac9b2/models/model_em.ipynb) for a rich explanation of the script, those of the other candidates are a replication with with very slight differences) 
+- **[models](https://github.com/essemmeppi/diving-into-french-presidential-discourses/tree/main/models)** - the folder with the 7 notebooks we wrote to generate the word embeddings models of each of the 7 candidate (look at [Emmanuel Macron's notebook](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/c591c2fd4865efabdd635e6c4265b972c43ac9b2/models/model_em.ipynb) for a rich explanation of the script, those of the other candidates are a replication with with very slight differences) 
 - **[presentation.pdf](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/bbd5860eeb31466251b0fc7ee606bc730a99c30e/presentation.pdf)** - the slides we used to present our work at Sciences Po on 31/03/22
 
 ## Authors
