@@ -9,7 +9,7 @@ In this repository you can find the following files:
 - **README.md** - the file you are currently reading
 - **paper.md** - an extended description of our research that sets our work withing the literature in political science, data science, and anthropology, that explains its methodological details, and that shows its findings, contributions and limitations
 - **code.py** - the Python code that allows interested readers to replicate our research. The code is divided in seven main parts that constitute the sections in which we train the seven models used in our work
-- **models** - folder with the 7 notebooks we wrote to generate the word embeddings models of each of the 7 candidate (look at Emmanuel Macron's notebook for a rich explanation of the script) 
+- **models** - the folder with the 7 notebooks we wrote to generate the word embeddings models of each of the 7 candidate (look at Emmanuel Macron's notebook for a rich explanation of the script, those of the other candidates' are a replication with with very slight differences) 
 - **presentation.pdf** - the slides we used to present our work at Sciences Po on 31/03/22
 
 ## Authors
