@@ -13,4 +13,4 @@ In this repository you can find the following files:
 - **[presentation.pdf](https://github.com/essemmeppi/diving-into-french-presidential-discourses/blob/bbd5860eeb31466251b0fc7ee606bc730a99c30e/presentation.pdf)** - the slides we used to present our work at Sciences Po on 31/03/22
 
 ## Authors
-Giulia Annaliese Paxton, Ryan Hachem, and Simone Maria Parazzoli and master students of the School of Public Affairs of Sciences Po. If you want to get in touch, reach us [here](mailto:simoneparazzoli@gmail.com).
+Giulia Annaliese Paxton, Ryan Hachem, and Simone Maria Parazzoli are master students of the School of Public Affairs of Sciences Po. If you want to get in touch, reach us [here](mailto:simoneparazzoli@gmail.com).
