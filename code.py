@@ -489,7 +489,7 @@ print(result)
 
 result = model_MLP.wv.most_similar(positive=['entreprise'], topn=20)
 print(result)
-
+ 
 result = model_MLP.wv.most_similar(positive=['economie'], topn=20)
 print(result)
 
