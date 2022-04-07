@@ -395,7 +395,7 @@ print(len(list_tw_MLP_aff_all))
 ## merge MLP and his affiliates' lists
 list_tw_MLP_all = list_tw_MLP + list_tw_MLP_aff_all
 print(len(list_tw_MLP_all))
-
+ 
 ## i retrieve a string from the pdf of MLP's manifesto using extract_text of the pdfminer package
 ## the cleaning process is specific for this manifesto and it depends on the output of extract_text
 manif_MLP = extract_text('/Users/simonemariaparazzoli/Documents/Università/Sciences Po/Diving into public digital spaces/research/manifesto_lepen.pdf')
